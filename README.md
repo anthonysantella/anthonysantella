@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @anthonysantella
-- Currently a Senior Research Scientist in the Molecular Cytology Core at Sloan Kettering Cancer Center in NY
+- Currently a Senior Research Scientist in the Molecular Cytology Core at Sloan Kettering Cancer Center in NYC
 - My background is in graphics, image analysis and visualization
 - I'm particularly interested in alignment methods, segmentation and image and data anlysis methods for cell tracking.
 
